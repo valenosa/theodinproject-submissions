@@ -5,6 +5,6 @@
 This repository is a portfolio to showcase all my projects.
 
 ## Foundations Course 
-| Project | Date | Submission
-|-|-|-
-| [Recipes](https://www.theodinproject.com/lessons/foundations-recipes) | March 5, 2025 - pending.. | [Code](https://github.com/valenosa/odin-recipes/)
+| Project | Date | Submission | Site
+|-|-|-|-
+| [Recipes](https://www.theodinproject.com/lessons/foundations-recipes) | March 5, 2025 | [Code](https://github.com/valenosa/odin-recipes/) | [Site](https://valenosa.github.io/odin-recipes/)
